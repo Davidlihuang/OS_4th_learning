@@ -1,2 +1,0 @@
-# OS_4th_learning
-本repository是记录现代操作系统的学习笔记
